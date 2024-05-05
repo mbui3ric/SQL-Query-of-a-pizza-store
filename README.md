@@ -1,0 +1,1 @@
+In this SQL project ,I have analysed different aspects in a pizza store to help the propreators get to know the dynamics of their sales by pointing out where they are doing well and also highlighting areas that need more focus so that they can improve their sales. 
